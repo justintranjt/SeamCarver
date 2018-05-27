@@ -1,8 +1,4 @@
 /******************************************************************************
- * Name: Justin Tran 
- * NetID: jctran 
- * Precept: P02
- * 
  * Description: Seam carves (a content-aware image resizing algorithm) a given
  * photo vertically or horizontally. Resizes a W-by-H image using the 
  * seam-carving technique and preserves aspect ratio and objects of interest.

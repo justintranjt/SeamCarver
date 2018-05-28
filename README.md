@@ -6,4 +6,4 @@ As a simple example, this original photo can be resized by specifying any smalle
 
 A photo that specifies a smaller width will result in the following photo with a clear, large seam removed in the yellow area.![](https://github.com/justintranjt/SeamCarver/blob/master/Capture.PNG)
 
-Other examples with photos that can apply the seam carving property more appropriately can be found in the paper.
+Other examples with photos that can apply the seam carving property more appropriately can be found in the paper or in [this blog post](https://justintranjt.github.io/projects/2018-05-27-seam-carving/).
